@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pokebingo_Front/static/css/main.e619183b.css",
-    "main.js": "/Pokebingo_Front/static/js/main.571c5127.js",
+    "main.js": "/Pokebingo_Front/static/js/main.7b0c7a10.js",
     "static/js/453.06917d71.chunk.js": "/Pokebingo_Front/static/js/453.06917d71.chunk.js",
     "static/media/fa-solid-900.ttf": "/Pokebingo_Front/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
     "static/media/boceto3.jpeg": "/Pokebingo_Front/static/media/boceto3.feeff6fc21cf5677663c.jpeg",
@@ -19,11 +19,11 @@
     "static/media/fa-v4compatibility.woff2": "/Pokebingo_Front/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
     "index.html": "/Pokebingo_Front/index.html",
     "main.e619183b.css.map": "/Pokebingo_Front/static/css/main.e619183b.css.map",
-    "main.571c5127.js.map": "/Pokebingo_Front/static/js/main.571c5127.js.map",
+    "main.7b0c7a10.js.map": "/Pokebingo_Front/static/js/main.7b0c7a10.js.map",
     "453.06917d71.chunk.js.map": "/Pokebingo_Front/static/js/453.06917d71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e619183b.css",
-    "static/js/main.571c5127.js"
+    "static/js/main.7b0c7a10.js"
   ]
 }
