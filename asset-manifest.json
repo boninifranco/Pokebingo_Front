@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Pokebingo_Front/static/css/main.e619183b.css",
+    "main.js": "/Pokebingo_Front/static/js/main.c8a41adf.js",
+    "static/js/453.06917d71.chunk.js": "/Pokebingo_Front/static/js/453.06917d71.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Pokebingo_Front/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/boceto3.jpeg": "/Pokebingo_Front/static/media/boceto3.feeff6fc21cf5677663c.jpeg",
+    "static/media/boceto2.jpeg": "/Pokebingo_Front/static/media/boceto2.7235b2e600d512b399c3.jpeg",
+    "static/media/boceto1.jpeg": "/Pokebingo_Front/static/media/boceto1.28287967c118b2e6505d.jpeg",
+    "static/media/PokeBingo.png": "/Pokebingo_Front/static/media/PokeBingo.445ec269bbb7b92ad93b.png",
+    "static/media/fa-brands-400.ttf": "/Pokebingo_Front/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/fa-solid-900.woff2": "/Pokebingo_Front/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/Resultados.png": "/Pokebingo_Front/static/media/Resultados.fefff3e7cf345a51f2f2.png",
+    "static/media/fa-brands-400.woff2": "/Pokebingo_Front/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/fa-regular-400.ttf": "/Pokebingo_Front/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/altPoke.png": "/Pokebingo_Front/static/media/altPoke.4c94031c4f6baf60c663.png",
+    "static/media/fa-regular-400.woff2": "/Pokebingo_Front/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Pokebingo_Front/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Pokebingo_Front/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "index.html": "/Pokebingo_Front/index.html",
+    "main.e619183b.css.map": "/Pokebingo_Front/static/css/main.e619183b.css.map",
+    "main.c8a41adf.js.map": "/Pokebingo_Front/static/js/main.c8a41adf.js.map",
+    "453.06917d71.chunk.js.map": "/Pokebingo_Front/static/js/453.06917d71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e619183b.css",
+    "static/js/main.c8a41adf.js"
+  ]
+}
